@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "react": "16.3.1",
-    "react-dom": "16.3.1",
+    "react-dom": "16.12.0",
     "@syncfusion/ej2": "17.4.51",
     "@syncfusion/ej2-react-base": "17.4.51",
     "@syncfusion/ej2-react-buttons": "17.4.51",
